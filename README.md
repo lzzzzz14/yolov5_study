@@ -1,7 +1,7 @@
 # yolov5_study
 ### 选择用yolov5官方的pytorch代码, tag=6.0, 倒数opset=11的.onnx文件
 
-[yolov5 tag=0.6的仓库]([ultralytics/yolov5 at v6.0 (github.com)](https://github.com/ultralytics/yolov5/tree/v6.0))
+[ultralytics/yolov5 at v6.0 (github.com)](https://github.com/ultralytics/yolov5/tree/v6.0)
 
 下载命令``` git clone --branch v6.0 https://github.com/ultralytics/yolov5.git```
 
